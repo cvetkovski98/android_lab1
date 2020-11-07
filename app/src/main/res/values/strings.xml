@@ -10,5 +10,5 @@
     <string name="text_view_list">TextView</string>
     <string name="text_view_label">Implicit Activity</string>
     <string name="text_display">No interaction</string>
-    <string name="text_info">Implicit activity result: </string>
+    <string name="text_info">Explicit activity result: </string>
 </resources>
