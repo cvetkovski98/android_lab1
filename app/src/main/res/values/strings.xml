@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab Intents</string>
+    <string name="button_explicit_text">Explicit Activity</string>
+    <string name="button_implicit_text">Implicit Activity</string>
+    <string name="button_share_content_text">Send email</string>
+    <string name="button_show_image_text">Show Image</string>
+    <string name="edit_text_placeholder">Enter text…</string>
+    <string name="submit_button_explicit">Submit</string>
+    <string name="cancel_button_explicit">Cancel</string>
+    <string name="text_view_list">TextView</string>
+    <string name="text_view_label">Implicit Activity</string>
+    <string name="text_display">No interaction</string>
+    <string name="text_info">Implicit activity result: </string>
+</resources>
